@@ -12,3 +12,5 @@ Login your admin account
 Click on the Potential Date Exfiltration ticket.
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Data-Exfiltration-ticket-and-Assigning-It-To-a-SOC-L1/blob/34fa75ea319f76685acbe4efc48beee52298980d/Screenshot%202026-08-16%20021936.png)
 Change the priority to emergency.
+![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Data-Exfiltration-ticket-and-Assigning-It-To-a-SOC-L1/blob/194754606a58a5ccad1a96589a687ed1dc22e6ca/Screenshot%202026-08-16%20032521.png)
+Assign the ticket to your SOC L1 analyst.
