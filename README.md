@@ -8,3 +8,5 @@ Type in the victim's email address and name. For help topic select security inci
 In the text box, type in the security alert information, and the issue summary. Next click on create ticket.
 ![Image alt])https://github.com/Kevinolee1/Creating-a-Potential-Data-Exfiltration-ticket-and-Assigning-It-To-a-SOC-L1/blob/d810002323d5582bc76c9950f38e8dd630473cf2/Screenshot%202026-08-18%20011200.png)
 Login your admin account
+![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Data-Exfiltration-ticket-and-Assigning-It-To-a-SOC-L1/blob/447a7458c0b26dc974e16189d204cd9943d5e4ba/Screenshot%202026-08-20%20105651.png)
+Click on the Potential Date Exfiltration ticket.
