@@ -4,3 +4,5 @@ A security alert was generated indicating possible unauthorized transfer or exfi
 Click on open a new ticket.
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Data-Exfiltration-ticket-and-Assigning-It-To-a-SOC-L1/blob/5b36c0e3f40980c6aae21def6b762779835569fd/Screenshot%202026-08-16%20031949.png)
 Type in the victim's email address and name. For help topic select security incident. Type Potential Data Exfiltration for issue summary  
+![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Data-Exfiltration-ticket-and-Assigning-It-To-a-SOC-L1/blob/fdd5b9feda34f479cd914243cf3b7f0619e46263/Screenshot%202026-08-16%20020656.png)
+In the text box, type in the security alert information, and the issue summary. Next click on create ticket.
