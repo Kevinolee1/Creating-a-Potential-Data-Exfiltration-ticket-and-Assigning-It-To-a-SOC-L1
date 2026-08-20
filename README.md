@@ -2,3 +2,5 @@
 A security alert was generated indicating possible unauthorized transfer or exfiltration of sensitive organizational data.
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Data-Exfiltration-ticket-and-Assigning-It-To-a-SOC-L1/blob/5f56386631c35a6f5a2dd58cbc607faa5fd9bce1/Screenshot%202026-08-18%20191322.png)
 Click on open a new ticket.
+![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Data-Exfiltration-ticket-and-Assigning-It-To-a-SOC-L1/blob/5b36c0e3f40980c6aae21def6b762779835569fd/Screenshot%202026-08-16%20031949.png)
+Type in the victim's email address and name. For help topic select security incident. Type Potential Data Exfiltration for issue summary  
