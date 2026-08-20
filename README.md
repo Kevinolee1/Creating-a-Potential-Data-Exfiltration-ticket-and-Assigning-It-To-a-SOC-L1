@@ -10,3 +10,5 @@ In the text box, type in the security alert information, and the issue summary. 
 Login your admin account
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Data-Exfiltration-ticket-and-Assigning-It-To-a-SOC-L1/blob/447a7458c0b26dc974e16189d204cd9943d5e4ba/Screenshot%202026-08-20%20105651.png)
 Click on the Potential Date Exfiltration ticket.
+![Image alt](https://github.com/Kevinolee1/Creating-a-Potential-Data-Exfiltration-ticket-and-Assigning-It-To-a-SOC-L1/blob/34fa75ea319f76685acbe4efc48beee52298980d/Screenshot%202026-08-16%20021936.png)
+Change the priority to emergency.
